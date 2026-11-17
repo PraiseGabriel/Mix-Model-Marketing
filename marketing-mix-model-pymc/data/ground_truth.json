@@ -1,0 +1,29 @@
+{
+  "amazon_ads": {
+    "decay": 0.5,
+    "K": 0.5,
+    "S": 1.5,
+    "beta": 90000,
+    "total_spend": 2729197.99,
+    "true_roas": 1.2792628502432086,
+    "true_share_of_media_revenue": 0.4460140619851196
+  },
+  "google_ads": {
+    "decay": 0.3,
+    "K": 0.4,
+    "S": 2.0,
+    "beta": 60000,
+    "total_spend": 1890051.08,
+    "true_roas": 1.503058438088932,
+    "true_share_of_media_revenue": 0.3629135035021194
+  },
+  "meta_ads": {
+    "decay": 0.7,
+    "K": 0.6,
+    "S": 1.2,
+    "beta": 45000,
+    "total_spend": 1287403.8399999999,
+    "true_roas": 1.1617950357659634,
+    "true_share_of_media_revenue": 0.19107243451276107
+  }
+}

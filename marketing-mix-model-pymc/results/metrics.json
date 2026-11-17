@@ -1,0 +1,21 @@
+{
+  "n_weeks": 104,
+  "train_weeks": 91,
+  "holdout_weeks": 13,
+  "r2_train": 0.9704852985752447,
+  "mape_train_pct": 2.0169495813227973,
+  "mape_holdout_pct": 3.1069993347447857,
+  "mape_holdout_naive_benchmark_pct": 16.56934308945526,
+  "rhat_max": 1.004850874983857,
+  "ess_bulk_min": 1485.7793094292272,
+  "divergences": 0,
+  "reallocation": {
+    "from_channel": "meta_ads",
+    "to_channel": "google_ads",
+    "weekly_shift": 5679.473951923078,
+    "weekly_revenue_gain_median": 4196.256077318177,
+    "gain_5pct": 1119.1933859509575,
+    "gain_95pct": 7283.22213910508,
+    "prob_gain_positive": 0.985
+  }
+}
